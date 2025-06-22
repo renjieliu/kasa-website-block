@@ -4,6 +4,8 @@ Stop wasting time on the internet! Brick your computer with a Kasa plug (when th
 
 [Blog post explainer](https://www.neilchen.co/blog/kasa)
 
+<img src="https://cdn.thewirecutter.com/wp-content/media/2024/08/smart-plug-2048px-2206.jpg" width="200"/>
+
 ## Setup
 
 1. (optional) add/remove websites by editing `blocklist`
