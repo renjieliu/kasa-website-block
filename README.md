@@ -11,4 +11,4 @@ Stop wasting time on the internet! Brick your computer with a Kasa plug (when th
 1. (optional) add/remove websites by editing `blocklist`
 2. `$ pip install -r requirements.txt`
 3. Get the IP address of the plug you'll use: `kasa discover`
-4. `$ python main.py "Kasa_plug_ip_address"` #e.g. python main.py "192.168.1.111"
+4. `$ python main.py "Kasa_plug_ip_address"` #e.g. `python main.py "192.168.1.111"`
